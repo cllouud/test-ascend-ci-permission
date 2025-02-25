@@ -1,7 +1,7 @@
 ---
 name: "🚀 Add Organization"
-about: "Request NPU compute resources for organization workflows"
-title: "[Insert] Add Organization to NPU Runners"
+about: "Use this template to request NPU resources for organization workflows"
+title: "ENABLE [ORGANIZATION]"
 labels: "npu-resources"
 assignees: ""
 ---
