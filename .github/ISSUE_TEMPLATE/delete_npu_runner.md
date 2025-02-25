@@ -1,7 +1,7 @@
 ---
 name: "Delete Organization"
 about: "Use this template to disconnect organization from NPU Runners"
-title: "DISABLE [ORGANIZATION]"
+title: "DISABLE ORGANIZATION"
 labels: "npu-resources"
 assignees: ""
 ---
