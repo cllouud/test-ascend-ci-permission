@@ -1,0 +1,1 @@
+# test-ascend-ci-permission
