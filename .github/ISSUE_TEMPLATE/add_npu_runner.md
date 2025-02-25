@@ -1,12 +1,12 @@
 ---
 name: "🚀 Add Organization"
 about: "Use this template to request NPU resources for organization workflows"
-title: "ENABLE [ORGANIZATION]"
+title: "ENABLE ORGANIZATION"
 labels: "npu-resources"
 assignees: ""
 ---
 
-Welcome to use this template to submit an issue to add your organization to the NPU operator. Please follow the instructions below to fill in the relevant information so that we can process your request more efficiently.
+Welcome to use this template to submit an issue to add your organization to the NPU Runners. Please follow the instructions below to fill in the relevant information so that we can process your request more efficiently.
 
 ```yaml
 org-name: 
