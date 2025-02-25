@@ -1,12 +1,12 @@
 ---
-name: "🚀 Modify Organization"
-about: "Modify the NPU resources configured for an organization"
-title: "[Update] Change NPU Runners of Organization"
+name: "Modify Organization"
+about: "Use this template tomodify the NPU resources configured for an organization"
+title: "Revise ORGANIZATION"
 labels: "npu-resources"
 assignees: ""
 ---
 
-Welcome to use this template to submit an issue to add your organization to the NPU operator. Please follow the instructions below to fill in the relevant information so that we can process your request more efficiently.
+Welcome to use this template to submit an issue to revise your organization to the NPU Runners. Please follow the instructions below to fill in the relevant information so that we can process your request more efficiently.
 
 ```yaml
 org-name: 
