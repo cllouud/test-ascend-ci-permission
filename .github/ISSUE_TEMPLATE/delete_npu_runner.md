@@ -1,12 +1,10 @@
 ---
-name: "🚀 Delete Organization"
-about: "Disconnecting an organization from Runners"
-title: "[Delete] Disconnect organization from NPU Runners"
+name: "Delete Organization"
+about: "Use this template to disconnect organization from NPU Runners"
+title: "DISABLE [ORGANIZATION]"
 labels: "npu-resources"
 assignees: ""
 ---
-
-Welcome to use this template to submit an issue to add your organization to the NPU operator. Please follow the instructions below to fill in the relevant information so that we can process your request more efficiently.
 
 ```yaml
 org-name: 
@@ -15,3 +13,7 @@ org-name:
 | Field | Description | Example | Required |
 |------|------|------|-----|
 | `org-name` | Full name of the organization | `awesome-ai-org` | ✅ |
+
+## Reason
+* Provide a reason for disconnection.
+Send email to yaml_1@163.com for more help.
