@@ -23,5 +23,5 @@ runner-set:
 | `org-name` | Full name of the organization | `awesome-ai-org` | ✅ |
 | `github-app.installation-id` | Installation ID after installing ascend-runner-mgmt | `11111111` | ✅ |
 | `runner-group.group-name` | The group name of the configured runner group | `ascend-ci` | ✅ |
-| `runner-set.npu-counts` | The number array of NPU chip | `1,2` | ✅ |
+| `runner-set.npu-counts` | The number of NPUs mounted by the runners | `1,2` | ✅ |
 
