@@ -1,5 +1,5 @@
 ---
-name: "🚀 Add Organization"
+name: "🚀 Add Or Modify Organization"
 about: "Use this template to request NPU resources for organization workflows"
 title: "ENABLE ORGANIZATION"
 labels: "npu-resources"
